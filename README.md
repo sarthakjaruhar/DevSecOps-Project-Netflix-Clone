@@ -8,3 +8,15 @@
 
 <h2>Utilities Used</h2>
 
+- <b>Jenkins:</b>
+- <b>Docker:</b> 
+- <b>Kubernetes:</b> 
+- <b>Prometheus:</b> 
+- <b>Grafana:</b> 
+- <b>SonarQube:</b> 
+- <b>OWASP Dependency-Check:</b> 
+- <b>Trivy:</b> 
+- <b>Node Exporter:</b> 
+
+
+
