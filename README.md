@@ -5,3 +5,6 @@
 <h2>Description</h2>
 <b>This project creates a Netflix clone using various tools and technologies. Jenkins will serve as the Continuous Integration and Continuous Deployment (CICD) tool, and the application will be deployed within a Docker container, managed within a Kubernetes Cluster. Security will be integrated into the process with Sonarqube, Trivy and OWASP Dependency Check.  Additionally, for monitoring Jenkins and Kubernetes metrics, Grafana, Prometheus, and Node Exporter will be used.</b>
 
+
+<h2>Utilities Used</h2>
+
