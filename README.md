@@ -8,6 +8,12 @@
 
 <h2>Utilities Used</h2>
 
+- <b>Jenkins:</b> Continuous Integration and Continuous Deployment (CI/CD)
+- <b>Docker:</b> Containerization
+- <b>Kubernetes:</b> Container Orchestration
+- <b>Prometheus:</b> Monitoring and Alerting
+- <b>Grafana:</b> Visualization and Dashboards
+
 
 
 
